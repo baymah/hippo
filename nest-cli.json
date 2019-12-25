@@ -1,0 +1,15 @@
+{
+  "language": "ts",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "projects": {
+    "ehr": {
+      "root": "project/ehr",
+      "sourceRoot": "projects/ehr/src"
+    },
+    "server-shared": {
+      "root": "project/server-shared",
+      "sourceRoot": "projects/server-shared/src"
+    }
+  }
+}
