@@ -7,7 +7,7 @@ import {
 } from '../../../server-shared/paginate';
 
 /**
- * service responsible for retrieval and update of user information
+ * service responsible for th creation Consultant Consultaion and Pagination history
  */
 @Injectable()
 export class ConsultantAdministrationService {
